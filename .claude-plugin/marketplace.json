@@ -1,0 +1,1 @@
+{"$schema":"https://json.schemastore.org/claude-code-marketplace.json","name":"lhg-plugs","owner":{"name":"刘洪光"},"plugins":[{"description":"薪酬谈判专家：谈判策略（BATNA/底线/让步阶梯） → 话术演练 → 底线清单","name":"lhg-salary-talk","source":"./"}]}
